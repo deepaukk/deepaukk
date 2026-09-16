@@ -1,30 +1,75 @@
-# Deepauk Krishnadhas
+# Hi, I'm Deepauk
 
-AI and Data Project Manager with 10+ years of experience working on data collection, annotation, quality assurance, localization, and delivery for large-scale AI and technology projects.
+AI and Data Project Manager with 10+ years of experience in AI data operations, project delivery, data quality, annotation, localization, and working with international teams.
 
-I have worked with international teams, vendors, and clients on projects involving multilingual data, search relevance, speech, image and video data, and AI data operations.
+I'm using GitHub to build practical tools and projects while developing my technical skills.
 
-I use this space to build and share tools, scripts, and projects related to data analysis, quality management, automation, and AI workflows. I'm also using these projects to develop my technical skills and explore practical applications of AI.
+## What I'm working on
 
-### Areas of Interest
+* Python and data analysis
+* AI and LLM workflows
+* LLM evaluation
+* Process automation
+* Data quality and reporting
+* Project management tools
+* Web-based utilities
 
-* AI and data operations
-* Data quality and annotation
-* Data analysis and automation
-* AI evaluation and LLM workflows
-* Project and vendor management
-* Multilingual data and localization
+## Projects
 
-### Currently Learning
+### Workout Planner
 
-Python, data analysis, generative AI, LLM evaluation, and workflow automation.
+A simple web-based workout planning and tracking tool built for personal use.
 
-### Background
+* HTML, CSS, JavaScript
+* Mobile-friendly interface
+* Hosted as a live web application
 
-* MBA, University of International Business and Economics
-* B.Sc. Computer Science, Sathyabama University
-* Professional Scrum Master I (PSM I)
+[Live Demo](ADD-WORKOUT-PLANNER-LINK)
 
-### Connect
+### Weekend Planner
 
-LinkedIn: [linkedin.com/in/deepauk-krishnadhas](https://www.linkedin.com/in/deepauk-krishnadhas/)
+A simple web-based tool for planning and organizing weekend activities.
+
+* HTML, CSS, JavaScript
+* Responsive interface
+* Hosted as a live web application
+
+[Live Demo](ADD-WEEKEND-PLANNER-LINK)
+
+### Excel File Automation
+
+Excel/VBA scripts for automating repetitive file and data management tasks.
+
+* Excel VBA
+* File processing
+* Data transformation
+* Workflow automation
+
+More projects will be added as I continue building and learning.
+
+## Professional Background
+
+My experience includes:
+
+* AI data collection and annotation
+* Data quality and QA
+* Multilingual data operations
+* Localization
+* Search relevance
+* Speech, image, and video data
+* Vendor and client management
+* International project delivery
+* Agile and Kanban project management
+
+## Currently Learning
+
+* Python
+* Data analysis
+* Generative AI
+* LLM evaluation
+* AI automation
+* Workflow automation
+
+## Goal
+
+To combine my experience in AI and data project management with stronger technical skills and build practical solutions that improve data, quality, and operational workflows.
