@@ -1,40 +1,23 @@
 # Hi, I'm Deepauk
 
-AI and Data Project Manager with 10+ years of experience in AI data operations, project delivery, data quality, annotation, localization, and working with international teams.
+AI and Data Project Manager with 10+ years of experience in AI data operations, project delivery, data quality, annotation, localization, and international project management.
 
-I'm using GitHub to build practical tools and projects while developing my technical skills.
-
-## What I'm working on
-
-* Python and data analysis
-* AI and LLM workflows
-* LLM evaluation
-* Process automation
-* Data quality and reporting
-* Project management tools
-* Web-based utilities
+I'm using GitHub to build practical tools and projects while developing my technical skills in Python, data analysis, AI, automation, and LLM evaluation.
 
 ## Projects
 
-### Workout Planner
+### Image & Metadata QA Toolkit
 
-A simple web-based workout planning and tracking tool built for personal use.
+A practical toolkit for validating image metadata, checking data quality, and supporting QA workflows for AI data projects.
 
-* HTML, CSS, JavaScript
-* Mobile-friendly interface
-* Hosted as a live web application
+* Python
+* Metadata validation
+* Image quality checks
+* QA reporting
+* Synthetic demo data
+* Data quality workflows
 
-[Live Demo](ADD-WORKOUT-PLANNER-LINK)
-
-### Weekend Planner
-
-A simple web-based tool for planning and organizing weekend activities.
-
-* HTML, CSS, JavaScript
-* Responsive interface
-* Hosted as a live web application
-
-[Live Demo](ADD-WEEKEND-PLANNER-LINK)
+[View Project](https://github.com/deepaukk/image-metadata-qa-toolkit)
 
 ### Excel File Automation
 
@@ -43,13 +26,34 @@ Excel/VBA scripts for automating repetitive file and data management tasks.
 * Excel VBA
 * File processing
 * Data transformation
+* Batch operations
 * Workflow automation
 
-More projects will be added as I continue building and learning.
+### Workout Planner
+
+A web-based workout planning and tracking tool.
+
+* HTML
+* CSS
+* JavaScript
+* Mobile-friendly interface
+* Hosted as a live web application
+
+[Live Demo](ADD-WORKOUT-PLANNER-LINK)
+
+### Weekend Planner
+
+A web-based tool for planning and organizing weekend activities.
+
+* HTML
+* CSS
+* JavaScript
+* Responsive interface
+* Hosted as a live web application
+
+[Live Demo](ADD-WEEKEND-PLANNER-LINK)
 
 ## Professional Background
-
-My experience includes:
 
 * AI data collection and annotation
 * Data quality and QA
@@ -69,7 +73,3 @@ My experience includes:
 * LLM evaluation
 * AI automation
 * Workflow automation
-
-## Goal
-
-To combine my experience in AI and data project management with stronger technical skills and build practical solutions that improve data, quality, and operational workflows.
