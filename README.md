@@ -39,7 +39,7 @@ A web-based workout planning and tracking tool.
 * Mobile-friendly interface
 * Hosted as a live web application
 
-[Live Demo](ADD-WORKOUT-PLANNER-LINK)
+[Live Demo](https://deepaukk.github.io/workout-planner/)
 
 ### Weekend Planner
 
@@ -51,7 +51,7 @@ A web-based tool for planning and organizing weekend activities.
 * Responsive interface
 * Hosted as a live web application
 
-[Live Demo](ADD-WEEKEND-PLANNER-LINK)
+[Live Demo](https://deepaukk.github.io/weekend-planner/)
 
 ## Professional Background
 
