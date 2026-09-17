@@ -19,6 +19,20 @@ A practical toolkit for validating image metadata, checking data quality, and su
 
 [View Project](https://github.com/deepaukk/image-metadata-qa-toolkit)
 
+### Job Application Tracker
+
+A lightweight, browser-based job application tracker built as a single HTML file, with no backend or dependencies.
+
+* HTML
+* CSS
+* JavaScript
+* localStorage
+* CSV export
+* JSON backup and restore
+* Responsive interface
+
+[Live Demo](https://deepaukk.github.io/job-application-tracker/)
+
 ### Excel File Automation
 
 Excel/VBA scripts for automating repetitive file and data management tasks.
