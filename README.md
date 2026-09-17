@@ -6,6 +6,22 @@ I'm using GitHub to build practical tools and projects while developing my techn
 
 ## Projects
 
+### PM Toolkit
+
+A lightweight, single-file project management toolkit: task tracker plus an interactive timeline (Gantt) view, with no backend or dependencies. Built by a PM, for PMs.
+
+* HTML
+* CSS
+* JavaScript
+* Interactive Gantt / timeline view
+* Status & priority tracking
+* Progress tracking
+* CSV export
+* JSON backup and restore
+* Dark UI, works offline
+
+[View Project](https://github.com/deepaukk/pm-toolkit) · [Live Demo](https://deepaukk.github.io/pm-toolkit/)
+
 ### Image & Metadata QA Toolkit
 
 A practical toolkit for validating image metadata, checking data quality, and supporting QA workflows for AI data projects.
@@ -31,7 +47,7 @@ A lightweight, browser-based job application tracker built as a single HTML file
 * JSON backup and restore
 * Responsive interface
 
-[Live Demo](https://deepaukk.github.io/job-application-tracker/)
+[View Project](https://github.com/deepaukk/job-application-tracker) · [Live Demo](https://deepaukk.github.io/job-application-tracker/)
 
 ### Excel File Automation
 
